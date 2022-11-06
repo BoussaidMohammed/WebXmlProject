@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type = "text/xsl" href = "liste.xsl"?><games>
+	<game id="2">
+		<title>BATTLEFIELD 2042</title>
+		<price>65.0</price>
+		<publisher>EA GAMES</publisher>
+		<plateforme>XBOX ONE</plateforme>
+	</game>
+	<game id="3">
+		<title>FIFA</title>
+		<price>50.0</price>
+		<publisher>EA GAMES</publisher>
+		<plateforme>PC</plateforme>
+	</game>
+
+	<game id="5">
+		<title>CALL OF DUTY 2</title>
+		<price>13.0</price>
+		<publisher>ACTIVISION</publisher>
+		<plateforme>PC</plateforme>
+	</game>
+	<game id="6">
+		<title>Need for speed</title>
+		<price>45.0</price>
+		<publisher>EA GAMES</publisher>
+		<plateforme>XBOX ONE</plateforme>
+	</game>
+	<game id="7">
+		<title>STREET FIGHTER</title>
+		<price>33.0</price>
+		<publisher>CAPCOM</publisher>
+		<plateforme>PS5</plateforme>
+	</game>
+	<game id="8">
+		<title>UNCHARTED 4</title>
+		<price>44.0</price>
+		<publisher>SONY</publisher>
+		<plateforme>PS4</plateforme>
+	</game>
+	<game id="9">
+		<title>KING OF FIGHTER</title>
+		<price>56.0</price>
+		<publisher>KONAMI</publisher>
+		<plateforme>NINTANDO SWITCH</plateforme>
+	</game>
+	<game id="10">
+		<title>FORZA HORIZON</title>
+		<price>45.0</price>
+		<publisher>MICROSOFT</publisher>
+		<plateforme>XBOX</plateforme>
+	</game>
+	<game id="11">
+		<title>STREET FIGHTER</title>
+		<price>50.0</price>
+		<publisher>CAPCOM</publisher>
+		<plateforme>NINTANDO SWITCH</plateforme>
+	</game>
+</games>
